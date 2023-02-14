@@ -1,0 +1,55 @@
+body{
+	background-color: #212121;
+	color: white;
+}
+
+.wrapper{
+	position: relative;
+	width: 500px;
+	height: 400px;
+	background-color: rgb(248, 82, 82);
+	cursor: grab;
+}
+.black{
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+
+.white{
+	position: absolute;
+	top: 0;
+	left: 100px;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+}
+
+.black1{
+	position: absolute;
+	top: 0;
+	left: 200px;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+
+/* .green{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(138, 254, 112);
+	z-index: 2;
+}
+
+.yellow{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(245, 254, 112);
+	z-index: 6;
+} */
+
+
+
+

@@ -1,0 +1,26 @@
+body{
+	background-color: #212121;
+}
+
+.wrapper{
+	width: 100px;
+	height: 100px;
+	margin: 50px auto;
+	background-color: rgb(183, 112, 249);
+	box-shadow: 0px 0px 0px 10px red;
+}
+
+.circle {
+	margin-left: 100px;
+	width: 40px;
+	height: 40px;
+	background: #F3AC3C;
+	border-radius: 100%;
+	box-shadow: 0 0 0 8px #0E2E2C, 
+		0 0 0 20px #F3AC3C, 
+		0 0 0 30px #0E2E2C,
+		0 0 0 40px #998235,
+		0 0 0 50px #0E2E2C;
+}
+
+/* box-shadow: x y blur  red; */

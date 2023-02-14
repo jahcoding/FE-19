@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Space+Mono:wght@400;700&display=swap');
+
+body{
+	background-color: #212121;
+	color: white;
+	font-family: 'Space Mono', monospace;
+	/* font-family: 'Roboto', sans-serif; */
+	/* font-family: 'Space Mono', 'Roboto', sans-serif; */
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	color: blueviolet;
+}

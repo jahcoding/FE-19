@@ -1,0 +1,15 @@
+body{
+	background: #212121;
+}
+
+.wrapper{
+	width: 100px;
+	height: 100px;
+	background-color: rgb(171, 96, 240);
+	padding: 15px 20px;
+	border: 10px solid rgb(114, 210, 230);
+	box-sizing: border-box;
+}
+
+/* 10 + 20 + 100 + 20 + 10 = 160 */
+/* 10 + 15 + 100 + 15 + 10 = 150 */

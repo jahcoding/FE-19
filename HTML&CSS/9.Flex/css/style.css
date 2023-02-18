@@ -1,0 +1,63 @@
+body{
+	background-color: #212121;
+}
+
+	/* justify-content: flex-start; */
+	/* justify-content: flex-end; */
+	/* justify-content: center; */
+	/* justify-content: space-between; */
+	/* justify-content: space-around; */
+	/* align-items: stretch; */
+	/* align-items: flex-start; */
+	/* align-items: flex-end; */
+	/* align-items: flex-end; */
+
+	/* justify-content -- x */
+	/* align-items -- y */
+
+	/* flex-direction: column-reverse;
+	flex-direction: row-reverse; */
+	/* flex-wrap: wrap-reverse; */
+.wrapper{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-end;
+	width: 100%;
+	height: 500px;
+	background-color: rgb(244, 106, 106);
+}
+.el1, .el2, .el3, .el4{
+	width: 100px;
+	height: 100px;
+}
+
+/* .wrapper1{
+	display: flex;
+	width: 100%;
+	height: 200px;
+	background-color: rgb(244, 106, 106);
+	margin-top: 50px;
+	justify-content: space-evenly;
+} */
+
+
+.el1{
+	background-color: yellow;
+}
+.el2{
+	background-color: rgb(53, 53, 53);
+}
+.el3{
+	background-color: rgb(0, 200, 255);
+}
+.el4{
+	background-color: bisque;
+}
+
+
+/* .wrapper div{
+
+} */
+/* .el1 .el2{
+
+} */

@@ -1,0 +1,16 @@
+.wrapper{
+	width: 100px;
+	height: 100px;
+	background: red;
+	/* transition-property: all;
+	transition-duration: 1s;
+	/* transition-delay: 2s; */
+	/* transition-timing-function:ease-in;  */
+	/* transition: all 1s ease 0.5s; */
+	transition: .5s;
+}
+
+.wrapper:hover{
+	width: 500px;
+	background: rgb(86, 86, 27);
+}

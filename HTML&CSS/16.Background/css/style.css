@@ -1,0 +1,113 @@
+body{
+	color: white;
+	background-color: #212121;
+}
+/* html{
+	font-size: 40px;
+} */
+.text{
+	font-size: 20px;
+	color: yellow;
+}
+.paragraph{
+	/* font-size: 2em;  1em = 20px; 2em = 40px */
+	font-size: 2rem;
+	color: rgb(60, 255, 60);
+}
+.mark{
+	/* font-size: 2em; 1em = 40px; 2em = 80px */
+	font-size: 2rem;
+	color: rgb(255, 87, 87);
+}
+/* vh, vw, %, px, em, rem */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper{
+	/* width: 2500px;
+	height: 1200px;
+	padding: 50px;
+	border: 50px dashed red; */
+	/* background-color: rgb(250, 235, 168);
+	background-image: url(../img/bg.jpg); */
+	/* background-repeat: no-repeat; */
+	/* background-size: cover; */
+	/* background-position: top right; */
+	/* background-attachment: fixed; */
+	/* background-clip: content-box; */
+	/* background-origin: ; */
+	/* background: url(../img/bg.jpg) center center red; */
+}
+
+/* background-image background-position/background-size background-repeat background-origin background-clip background-attachment background-color */
+
+.block-1{
+	width: 1200px;
+	height: 600px;
+	/* x-repeat */
+}
+
+.block-2{
+	width: 1200px;
+	height: 600px;
+	/* y-repeat */
+}
+
+.block-2{
+	width: 1200px;
+	height: 600px;
+	/* repeat */
+}
+
+.block-3{
+	width: 1200px;
+	height: 600px;
+	/* no-repeat */
+
+}
+
+.block-4{
+	width: 1200px;
+	height: 600px;
+	/* fixed */
+}
+.block-5{
+	width: 1200px;
+	height: 600px;
+	/* fixed */
+	/* background-clip: ; */
+}
+
+.block-6{
+	width: 1200px;
+	height: 600px;
+	/* fixed */
+	/* background-origin: ; */
+}

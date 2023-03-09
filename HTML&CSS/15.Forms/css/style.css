@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: sans-serif;
+	background-color: #212121;
+	color:white;
+}
+input, button, select {
+	color: #212121;
+}
+
+#radio{
+	display: none;
+}
+label{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	border: 1px solid violet;
+	margin: 50px;
+	cursor: pointer;
+}
+label .circle{
+	display: none;
+	width: 75%;
+	height: 75%;
+	background-color: violet;
+	border-radius: 100%;
+}
+
+#radio:checked + label .circle{
+	display: block;
+}
+
+/* .some ~ p {
+	color: red;
+} */
+
+/* option{
+	color: white;
+} */
+/* h1{
+	text-align: center;
+	margin-top: 20px;
+} */
+/* .box{
+	width: 250px;
+	margin: 0 auto;
+	display: flex; */
+	/* justify-content: center; */
+	/* flex-direction: column;
+	align-items: center;
+	gap: 25px;
+} */
+/* label{
+	display: block;
+	margin-top: 50px;
+} */
+
+/* input{
+	padding: 25px;
+	color: black;
+	transition: 0.5s; */
+	/* border: 5px solid blue;
+	outline: 5px solid red; */
+/* } */
+
+/* input:focus{
+	border: 0;
+	outline: 0;
+	background: red;
+}
+
+input:checked{
+
+} */
+/* input::placeholder{
+	color: green; */
+	/* font-size: 25px;
+} */
+
+/* .gender{
+	background-color: red;
+	border: 2px solid blue;
+} */
+
+/* select{
+	width: 300px;
+	background-color: transparent;
+	color: white;
+	border: 0;
+	border-bottom: 1px solid white;
+	padding: 15px 0;
+} */

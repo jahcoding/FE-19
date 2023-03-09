@@ -1,0 +1,100 @@
+p{
+	margin: 0;
+}
+
+li {
+	color: red;
+}
+
+/* ul li:nth-child(1){
+	color: blue;
+} */
+
+/* ul li:nth-child(odd){
+	color: blue;
+} */
+/* 
+ul li:nth-child(4n){
+	color: blue;
+} */
+
+/* ul li:nth-child(4n + 1){
+	color: blue;
+} */
+
+/* ul p:nth-child(5){
+	color: blue;
+} */
+
+/* ul p:nth-of-type(2){
+	color: yellow;
+} */
+
+/* ul li:first-child{
+	color: blue;
+}
+
+ul li:last-child{
+	color: green;
+} */
+
+/* ul p:first-child{
+	color: blue;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .green:hover{
+	color: green;
+}
+
+.wrapper{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	cursor: pointer;
+	transition-duration: 0.5s;
+} */
+
+/* .wrapper:hover{
+	background-color: red;
+} */
+
+/* .wrapper:active{
+	background-color: yellow;
+} */
+
+/* a:link{
+	color: red;
+} */
+
+/* a{
+	color: blue;
+} */
+
+a:visited{
+	color: green;
+}
+a:active{
+	color: yellow;
+}
